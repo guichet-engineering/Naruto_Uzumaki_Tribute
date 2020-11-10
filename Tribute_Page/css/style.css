@@ -1,0 +1,17 @@
+body{
+    Background-color: orange;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    border: 5px black solid;
+    padding: 10px;
+}
+
+.responsive{
+    width: 80%;
+    max-width: 100%;
+    height: auto;
+}
